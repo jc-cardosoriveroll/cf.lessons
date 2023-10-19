@@ -1,0 +1,6 @@
+# General Ignores + IDE
+.DS_Store
+
+#studio
+.vscode/**
+*.code-workspace
